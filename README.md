@@ -48,20 +48,20 @@ By using Python and Pandas functions, I converted the "tripduration" column from
  
  In this visualization, The graph shows us the length of time that bikes are checked out for all riders.
  
- Tableu public link:https://public.tableau.com/app/profile/dawit.alaro/viz/CheckoutTimesforUsers_16234665352630/CheckoutTimesforUsers
+ Tableau public link:https://public.tableau.com/app/profile/dawit.alaro/viz/CheckoutTimesforUsers_16234665352630/CheckoutTimesforUsers
  
  ![image](https://user-images.githubusercontent.com/80365882/122130595-b9e99100-cdec-11eb-9c61-bc8e8a42f6a6.png)
 
  ### Checkout Times by Gender
  
  
- Tableu public ling : https://public.tableau.com/app/profile/dawit.alaro/viz/CheckoutTimesByGender_16237826859620/CheckoutTimesByGender
+ Tableau public link : https://public.tableau.com/app/profile/dawit.alaro/viz/CheckoutTimesByGender_16237826859620/CheckoutTimesByGender
  
  ![image](https://user-images.githubusercontent.com/80365882/122131065-79d6de00-cded-11eb-8af9-e05a84f5fd26.png)
 
 ### Trips by Weekday for Each Hour
 
-Tableu public link: https://public.tableau.com/app/profile/dawit.alaro/viz/TripsbyWeekdayperHour_16237831787440/TripsbyWeekdayperHour
+Tableau public link: https://public.tableau.com/app/profile/dawit.alaro/viz/TripsbyWeekdayperHour_16237831787440/TripsbyWeekdayperHour
 
 ![image](https://user-images.githubusercontent.com/80365882/122131246-bc001f80-cded-11eb-918f-dab8aa58a824.png)
 
@@ -74,7 +74,7 @@ Tableu public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/Trips
 
 ### User Trips by Gender by Weekday
 
-Tableu public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/UserTripbyGenderbyWeekday/UserTripbyGenderbyWeekday
+Tableau public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/UserTripbyGenderbyWeekday/UserTripbyGenderbyWeekday
 
 ![image](https://user-images.githubusercontent.com/80365882/122131793-90316980-cdee-11eb-8ce8-d35fb9b9ebba.png)
 
