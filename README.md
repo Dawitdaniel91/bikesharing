@@ -30,7 +30,7 @@ The report consists of two technical analysis deliverables and a written report 
 
 By using Python and Pandas functions, I converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). 
 
-  https://github.com/Dawitdaniel91/bikesharing/blob/main/Resources/Changed%20Tripduration.PNG?raw=true
+![image](https://user-images.githubusercontent.com/80365882/122129997-cfaa8680-cdeb-11eb-91f1-461f2ea355e9.png)
   
     
     
