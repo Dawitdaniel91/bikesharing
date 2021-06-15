@@ -33,6 +33,7 @@ By using Python and Pandas functions, I converted the "tripduration" column from
     Table: DataFrame column
     
     ![image](https://user-images.githubusercontent.com/80365882/122129588-2e233500-cdeb-11eb-91b2-27426449a692.png)
+    
 
     
  ### Deliverable 2: Create Visualizations for the Trip Analysis
