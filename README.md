@@ -30,9 +30,9 @@ The report consists of two technical analysis deliverables and a written report 
 
 By using Python and Pandas functions, I converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). 
 
-    Table: DataFrame column
     
     ![image](https://user-images.githubusercontent.com/80365882/122129588-2e233500-cdeb-11eb-91b2-27426449a692.png)
+    
     
 
     
