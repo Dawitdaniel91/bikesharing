@@ -90,7 +90,7 @@ Tableau public link :https://public.tableau.com/profile/dawit.alaro#!/
 
 The bar chart shows us  almost no singifcant diffrence change betwen the gender but hughe difference in the subscriber. Amost morethan 80000  subscriber are male.
 
-![image](https://user-images.githubusercontent.com/80365882/122505919-2792ea00-cfb2-11eb-995a-6fff30451732.png)
+![image](https://user-images.githubusercontent.com/80365882/122506286-e18a5600-cfb2-11eb-8d12-d9ac6f2dacf2.png)
 
 
 ### Top ten stations
