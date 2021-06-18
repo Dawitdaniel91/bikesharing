@@ -97,7 +97,7 @@ The bar chart shows us  almost no singifcant diffrence change betwen the gender 
 
 The chart shows us almost most of the top ten starting and ending stations are from the same zone.
 
-![image](https://user-images.githubusercontent.com/80365882/122505949-32e61580-cfb2-11eb-9615-0ad4a3c758a4.png)
+![image](https://user-images.githubusercontent.com/80365882/122506218-b7d12f00-cfb2-11eb-81ce-273afb7181eb.png)
 
 ## Summery
 
