@@ -80,22 +80,24 @@ Tableu public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/Trips
 
 From the graph we could understand that Thursday is the most popular day for bike rentals among male and females for weekdays whereas others most popular days are weekend which ard Saturday and Sunday.
 
-Tableau public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/UserTripbyGenderbyWeekday/UserTripbyGenderbyWeekday
+Tableau public link: https://public.tableau.com/app/profile/dawit.alaro/viz/UserTripbyGenderbyWeekday/UserTripbyGenderbyWeekday
 
 ![image](https://user-images.githubusercontent.com/80365882/122131793-90316980-cdee-11eb-8ce8-d35fb9b9ebba.png)
 
 ### Number of Usertype based non gender
 
+Tableau public link :https://public.tableau.com/profile/dawit.alaro#!/
+
 The bar chart shows us  almost no singifcant diffrence change betwen the gender but hughe difference in the subscriber. Amost morethan 80000  subscriber are male.
 
-![image](https://user-images.githubusercontent.com/80365882/122500975-a6832500-cfa8-11eb-9c7c-fa7657558978.png)
+![image](https://user-images.githubusercontent.com/80365882/122505919-2792ea00-cfb2-11eb-995a-6fff30451732.png)
 
 
 ### Top ten stations
 
 The chart shows us almost most of the top ten starting and ending stations are from the same zone.
 
-![image](https://user-images.githubusercontent.com/80365882/122501293-3cb74b00-cfa9-11eb-816c-9bb44c79bddf.png)
+![image](https://user-images.githubusercontent.com/80365882/122505949-32e61580-cfb2-11eb-9615-0ad4a3c758a4.png)
 
 ## Summery
 
