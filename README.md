@@ -78,6 +78,11 @@ Tableau public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/User
 
 ![image](https://user-images.githubusercontent.com/80365882/122131793-90316980-cdee-11eb-8ce8-d35fb9b9ebba.png)
 
+### Number of Usertype based non gender
+
+The bar chart shows us  almost no singifcant diffrence change betwen the gender but hughe difference in the subscriber. Amost morethan 80000  subscriber are male.
+
+![image](https://user-images.githubusercontent.com/80365882/122500975-a6832500-cfa8-11eb-9c7c-fa7657558978.png)
 
 
 
