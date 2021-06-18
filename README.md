@@ -54,6 +54,8 @@ By using Python and Pandas functions, I converted the "tripduration" column from
 
  ### Checkout Times by Gender
  
+  We can understand from the table most of the general usertypes are male (90,357), but both the female and unknown gender usertypes are below the half number of the general number of usertype(41,838 Both bumber of usertype)
+ 
  
  Tableau public link : https://public.tableau.com/app/profile/dawit.alaro/viz/CheckoutTimesByGender_16237826859620/CheckoutTimesByGender
  
@@ -68,11 +70,15 @@ Tableau public link: https://public.tableau.com/app/profile/dawit.alaro/viz/Trip
 
 ### Trips by Gender (Weekday per Hour)
 
+This graph shows the total number of trips by weekday and hour. We understood from the grepgh , most of the usertype demanded to use biking on the morning time.We can see that the highest demand times are the morning hours on weekdays from 6am till 9am and in the evening hours on weekdays between 5 pm and 7 pm. Most of the users used the high demand for weekend hours are middle of the day between 10 am and 6 pm.
+
 Tableu public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/TripsbyGenderWeekdayperHour_16237850118820/TripsbyGenderWeekdayperHour
 
 ![image](https://user-images.githubusercontent.com/80365882/122131490-15684e80-cdee-11eb-9dbf-c58966f774eb.png)
 
 ### User Trips by Gender by Weekday
+
+From the graph we could understand that Thursday is the most popular day for bike rentals among male and females for weekdays whereas others most popular days are weekend which ard Saturday and Sunday.
 
 Tableau public ling: https://public.tableau.com/app/profile/dawit.alaro/viz/UserTripbyGenderbyWeekday/UserTripbyGenderbyWeekday
 
@@ -87,24 +93,12 @@ The bar chart shows us  almost no singifcant diffrence change betwen the gender 
 
 ### Top ten stations
 
-The chart shows us almost all of the top ten starting and ending stations are from the same zone.
+The chart shows us almost most of the top ten starting and ending stations are from the same zone.
 
 ![image](https://user-images.githubusercontent.com/80365882/122501293-3cb74b00-cfa9-11eb-816c-9bb44c79bddf.png)
 
+## Summery
 
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-
-
-
-
+Based the chart analysis the males are the primary users of City bikes in New York City if we see the general usertype, but if we see only the customers usertype, the difference is not significant because we do not have any information regarding the unknown customers. If we see the subscribers’ numbers, we can conclude the overall males are most of the usertype of the city bikes in the New York City. But Additional analysis is needed in order to determine if City bikes is a great fit for Des Moines, Iowa.
+In order to determine if city bikes are good fit for Des Moines, there is still some more visualization needed to convince investors that a bike-sharing program in Des Moines is a solid business proposal. There are two additional visualizations are suggested for future analysis
+The first one, it is better to visualize population growths between Des Moines and New York City. Publicly available census data could be used to look at population totals and growth rates between the two cities. The other one is visualization  based on the weather data between Des Moines and New York City. 
