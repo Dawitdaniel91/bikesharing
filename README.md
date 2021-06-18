@@ -99,6 +99,10 @@ The chart shows us almost most of the top ten starting and ending stations are f
 
 ## Summery
 
-Based the chart analysis the males are the primary users of City bikes in New York City if we see the general usertype, but if we see only the customers usertype, the difference is not significant because we do not have any information regarding the unknown customers. If we see the subscribers’ numbers, we can conclude the overall males are most of the usertype of the city bikes in the New York City. But Additional analysis is needed in order to determine if City bikes is a great fit for Des Moines, Iowa.
-In order to determine if city bikes are good fit for Des Moines, there is still some more visualization needed to convince investors that a bike-sharing program in Des Moines is a solid business proposal. There are two additional visualizations are suggested for future analysis
-The first one, it is better to visualize population growths between Des Moines and New York City. Publicly available census data could be used to look at population totals and growth rates between the two cities. The other one is visualization  based on the weather data between Des Moines and New York City. 
+  Based the chart analysis the males are the primary users of City bikes in New York City if we see the general usertype, but if we see only the customers usertype, the difference is not significant because we do not have any information regarding the unknown customers. If we see the subscribers’ numbers, we can conclude the overall males are most of the usertype of the city bikes in the New York City. But Additional analysis is needed in order to determine if City bikes is a great fit for Des Moines, Iowa.
+  
+  
+  In order to determine if city bikes are good fit for Des Moines, there is still some more visualization needed to convince investors that a bike-sharing program in Des Moines is a solid business proposal. There are two additional visualizations are suggested for future analysis
+  
+  
+  The first one, it is better to visualize population growths between Des Moines and New York City. Publicly available census data could be used to look at population totals and growth rates between the two cities. The other one is visualization  based on the weather data between Des Moines and New York City. 
