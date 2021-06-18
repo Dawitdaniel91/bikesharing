@@ -85,6 +85,11 @@ The bar chart shows us  almost no singifcant diffrence change betwen the gender 
 ![image](https://user-images.githubusercontent.com/80365882/122500975-a6832500-cfa8-11eb-9c7c-fa7657558978.png)
 
 
+### Top ten stations
+
+The chart shows us almost all of the top ten starting and ending stations are from the same zone.
+
+![image](https://user-images.githubusercontent.com/80365882/122501293-3cb74b00-cfa9-11eb-816c-9bb44c79bddf.png)
 
 
 
